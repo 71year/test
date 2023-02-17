@@ -6,8 +6,8 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print('Hi, git 33333')  # Press ⌘F8 to toggle the breakpoint.
-    f = open("asd.txt", 'w')
+    print('Hi, git 3333453')  # Press ⌘F8 to toggle the breakpoint.
+    f = open("as4564656d.txt", 'w')
     f.close()
 
 
